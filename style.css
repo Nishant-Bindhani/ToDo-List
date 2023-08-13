@@ -317,3 +317,25 @@ li:hover .action {
 .footer button:hover {
     box-shadow: rgba(240, 46, 170, 0.6) 0px 5px;
 }
+
+@media(max-width:518px) {
+    .container {
+        width: 450px;
+    }
+}
+
+@media(max-width:455px) {
+    .container {
+        width: 350px;
+        padding: 10px 0 10px 10px;
+    }
+    .addInput button {
+        height: 45px;
+        line-height: 47px;
+        width: 13%;
+        margin-left: .5rem;
+    }
+    .btns button {
+        font-size: 12px;
+    }
+}
