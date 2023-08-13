@@ -1,5 +1,6 @@
 # TODO-LIST
 This is a To-Do List Website made by using html,pure css and vanilla js with Local Storage.
+
 Features:- 
 
 .)You can Add your Tasks in the input section , which will be added in the Pending section.
