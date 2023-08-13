@@ -177,7 +177,7 @@ saveTaskBtn.addEventListener('click', () => {
     addInputField.value = "";
     addTaskBtn.classList.remove('active');
     showtask();
-    showNotification("Task is Editted Successfully", "success");
+    showNotification("Task is Edited Successfully", "success");
 })
 
 
