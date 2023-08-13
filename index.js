@@ -62,7 +62,7 @@ function showNotification(text, id) { //pop up //
     setTimeout(() => {
         popup.textContent = "";
         popup.classList.remove(`${id}`); //removing class of id after 1.5s //
-    }, 3000);
+    }, 2000);
 }
 
 
