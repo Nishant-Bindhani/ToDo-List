@@ -1,7 +1,7 @@
 # ToDo-LIST
 This is a To-Do List Website made by using html,pure css and vanilla js with Local Storage.
 
-Link:- https://nishant-bindhani.github.io/TODO-LIST/
+Link:- https://nishant-bindhani.github.io/ToDo-LIST/
 
 Features:- 
 
